@@ -1,0 +1,116 @@
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.csproj.AssemblyReference.cache
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.AssemblyInfoInputs.cache
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.AssemblyInfo.cs
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.csproj.CoreCompileInputs.cache
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Parking.Api.staticwebassets.endpoints.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Parking.Api.exe
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Parking.Api.deps.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Parking.Api.runtimeconfig.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Parking.Api.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Parking.Api.pdb
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\scopedcss\bundle\Parking.Api.styles.css
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking..A2BFD50F.Up2Date
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\refint\Parking.Api.dll
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.pdb
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\Parking.Api.genruntimeconfig.cache
+C:\Users\Everson Vansoski\OneDrive\Desktop\arq\dev\parking-crud\backend\obj\Debug\net8.0\ref\Parking.Api.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Parking.Api.staticwebassets.endpoints.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Parking.Api.exe
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Parking.Api.deps.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Parking.Api.runtimeconfig.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Parking.Api.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Parking.Api.pdb
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Npgsql.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.csproj.AssemblyReference.cache
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.AssemblyInfoInputs.cache
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.AssemblyInfo.cs
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.csproj.CoreCompileInputs.cache
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\scopedcss\bundle\Parking.Api.styles.css
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking..A2BFD50F.Up2Date
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\refint\Parking.Api.dll
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.pdb
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\Parking.Api.genruntimeconfig.cache
+C:\Users\everson.vansoski\Desktop\testes\teste-main\backend\obj\Debug\net8.0\ref\Parking.Api.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Parking.Api.staticwebassets.endpoints.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Parking.Api.exe
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Parking.Api.deps.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Parking.Api.runtimeconfig.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Parking.Api.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Parking.Api.pdb
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Npgsql.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.csproj.AssemblyReference.cache
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.AssemblyInfoInputs.cache
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.AssemblyInfo.cs
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.csproj.CoreCompileInputs.cache
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.sourcelink.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\scopedcss\bundle\Parking.Api.styles.css
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking..A2BFD50F.Up2Date
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\refint\Parking.Api.dll
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.pdb
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\Parking.Api.genruntimeconfig.cache
+C:\Users\gutsk\OneDrive\Documentos\Trabalho\Entrevista - Conciliadora\01 - Projeto-Tarefas\teste-dev\backend\obj\Debug\net8.0\ref\Parking.Api.dll
