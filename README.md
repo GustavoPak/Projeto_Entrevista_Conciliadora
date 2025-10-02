@@ -147,11 +147,15 @@ window.location.reload();
 do projeto,achei que quebraria alguma regra,mas achei uma operação recomendada.
 
 ```
+//Solução que consideraria ideal
 modelBuilder.Entity<Vehicle>()
     .HasOne<Client>()
     .WithMany(c => c.Vehicles)
     .HasForeignKey(v => v.ClientId)
     .OnDelete(DeleteBehavior.Cascade);
+
+//Solução cabivel
+    db.Vehicles.RemoveRange(vehicles);
 ```
 
 
